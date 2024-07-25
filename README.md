@@ -15,7 +15,6 @@ Here are some screenshots of the application:
 - **User Interaction**:
    - Likes: Total likes count for each post.
    - Comments: Total comments count for each post.
-   - Shares: Total shares count for each post.
    - Reposts: Total reposts count for each post.
 
 ## Package Dependencies
